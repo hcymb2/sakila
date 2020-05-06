@@ -14,7 +14,7 @@
 			}
 
 			body{
-			 background-image: url('dataIllustration.jpg');
+			 background-image: url('referenceImages/dataIllustration.jpg');
 			 background-repeat: no-repeat;
 			 background-attachment: scroll;
 			 background-position: right 100px;
